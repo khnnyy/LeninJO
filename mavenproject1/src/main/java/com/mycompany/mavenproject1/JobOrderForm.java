@@ -22,8 +22,7 @@ import javax.swing.SwingUtilities;
 public class JobOrderForm extends javax.swing.JFrame {
     
     private String jO;
-//    private static final String CLIENT_ID = "968861600849-drsojhk2mlbis7okra27a9onhb70o4mq.apps.googleusercontent.com";
-//    private static final String CLIENT_SECRET = "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";
+
     JOVar att = new JOVar();
     MangoDBConnection mangoDBConnection = new MangoDBConnection();
     /**
